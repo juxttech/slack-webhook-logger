@@ -1,3 +1,5 @@
+> **DEPRECATED** This package has been deprecated, and will receive no further updates or support from Kienle Holdings.
+
 # slack-webhook-logger
 
 > Send your application's logs to a Slack Webhook
